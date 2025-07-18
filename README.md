@@ -44,6 +44,7 @@ sudo apt-get install gcc-aarch64-linux-gnu # Install a default version
 
 ### kernel compilation
 Take 5.4.0 as an example
+
 ```sh
 wget https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.4.tar.xz
 tar -xvJf linux-5.4.tar.xz
